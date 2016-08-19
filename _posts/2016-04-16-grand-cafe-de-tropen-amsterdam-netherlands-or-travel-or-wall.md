@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T00:30:02.400Z'
+datePublished: '2016-08-19T00:31:06.875Z'
 sourcePath: >-
   _posts/2016-04-16-grand-cafe-de-tropen-amsterdam-netherlands-or-travel-or-wall.md
 inFeed: true
@@ -22,8 +22,9 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-19T00:30:01.691Z'
-title: 'Grand Café de Tropen, Amsterdam, Netherlands'
+via: {}
+dateModified: '2016-08-19T00:31:06.397Z'
+title: Why Qalize?
 app_links: []
 publisher:
   name: Wallpaper*
@@ -37,10 +38,9 @@ description: >-
   Dutch Gothic Revival pile was designed by J.J.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Grand Café de Tropen, Amsterdam, Netherlands</h1><p>To be frank, Amsterdam's Koninklijk Instituut voor de Tropen, more informally known as the Royal Tropical Institute, is not the first place you'd think of for a lunch of pulled chicken marinated in hoi-sin and star anise. The stately Dutch Gothic Revival pile was designed by J.J.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/167fcc4d66d410506a1edb29bd3162345bc27b71.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/167fcc4d66d410506a1edb29bd3162345bc27b71.jpg" /><h1>Why Qalize?</h1><p>To be frank, Amsterdam's Koninklijk Instituut voor de Tropen, more informally known as the Royal Tropical Institute, is not the first place you'd think of for a lunch of pulled chicken marinated in hoi-sin and star anise. The stately Dutch Gothic Revival pile was designed by J.J.</p></article>
